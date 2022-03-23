@@ -1,4 +1,4 @@
-# stable-counting-sort-cpp
+# Counting Sort (stable ver)
 C++ implementation of the Counting Sort algorithm (stable version, meaning it keeps the given order for equal numbers).
 
 I've included execution time measurement in the code, thus the program outputs its execution time (excluding the time it needs to generate and allocate the arrays).
